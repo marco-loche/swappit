@@ -1,2 +1,2 @@
 # swappit
-A simple C program to test he swapping capabilities of your server
+A simple C program to test the swapping capabilities of your server
